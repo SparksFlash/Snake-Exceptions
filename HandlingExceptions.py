@@ -11,3 +11,5 @@ except (ValueError, ZeroDivisionError) as ex:
 else:
     print("No exceptions were thrown.")
 print("Execution continues.")
+
+# EXCEPTIONS MORE
